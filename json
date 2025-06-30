@@ -1,0 +1,15 @@
+{
+  "name": "Nación Tereré Token List",
+  "timestamp": "2025-06-30T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x7e86F53F999e71dDF4AE9104dC27337046AfFC9E",
+      "name": "Terere",
+      "symbol": "TR",
+      "decimals": 18,
+      "logoURI": "AQUÍ_VA_TU_LOGO.png"
+    }
+  ]
+}
